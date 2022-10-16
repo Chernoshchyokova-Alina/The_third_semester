@@ -3,7 +3,7 @@ set xrange [-50:50]
 set yrange [-50:50]
 replot
 set terminal png size 1000, 700
-set output "cloud_1.png"
+set output "Created_cloud.jpg"
 replot
 set term wxt
 replot
